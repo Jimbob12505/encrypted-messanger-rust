@@ -3,6 +3,6 @@ members = [
   "bin/cli",
   "bin/server"
   # add others later: "core/crypto", "core/proto", "core/net", "tui"
-]
+, "core/net", "core/proto"]
 resolver = "2"
 
