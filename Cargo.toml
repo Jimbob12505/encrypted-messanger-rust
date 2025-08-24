@@ -1,0 +1,10 @@
+[workspace]
+members = [
+  "bin/cli",
+  "bin/server",
+  "core/crypto",
+  "core/proto",
+  "core/net",
+  "tui"
+]
+resolver = "2"
